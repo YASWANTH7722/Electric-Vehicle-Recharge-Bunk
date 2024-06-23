@@ -7,9 +7,9 @@ The Electric Vehicle Recharge Bunk project is a web-based platform developed usi
 ## Installation Instructions
 
 1. **Clone the repository**:
-    ```bash
+    
     git clone https://github.com/YASWANTH7722/ElectricVehicleRechargeBunk.git
-    ```
+
 
 2. **Navigate to the project directory**:
     ```bash
